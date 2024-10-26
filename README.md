@@ -13,8 +13,7 @@ This is a React Native application for creating and visualizing family trees acr
 
 
 Video Link(Google Drive)
-https://drive.google.com/drive/folders/16NEJaNhE4ZMLf42df1d1ERrJqb2bIApw
-
+https://drive.google.com/file/d/12tE-jFh7w2FBsnqyf-foNLpz3spCQ0c6/view?usp=sharing
 
 
 ## Features
